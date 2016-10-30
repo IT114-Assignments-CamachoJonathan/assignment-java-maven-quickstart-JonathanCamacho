@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="com.mycompany.MavenQuickstartHomework.App" project="MavenQuickstartHomework" 
+    file="/MavenQuickstartHomework/src/main/java/com/mycompany/MavenQuickstartHomework/App.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="201" x="185" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.mycompany.MavenQuickstartHomework.HomeworkclassTest" 
+    project="MavenQuickstartHomework" 
+    file="/MavenQuickstartHomework/src/main/java/com/mycompany/MavenQuickstartHomework/HomeworkclassTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="201" x="426" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.mycompany.MavenQuickstartHomework.Homeworkclass" 
+    project="MavenQuickstartHomework" 
+    file="/MavenQuickstartHomework/src/main/java/com/mycompany/MavenQuickstartHomework/Homeworkclass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="201" x="667" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <component id="4" language="java" 
+    name="C:/Users/Jonathan Camacho/Downloads/spring-tool-suite-3.8.1.RELEASE-e4.6-win32-x86_64 (1)/sts-bundle/sts-3.8.1.RELEASE/plugins/org.junit_4.12.0.v201504281640/junit.jar" 
+    project="MavenQuickstartHomework" 
+    file="C:/Users/Jonathan Camacho/Downloads/spring-tool-suite-3.8.1.RELEASE-e4.6-win32-x86_64 (1)/sts-bundle/sts-3.8.1.RELEASE/plugins/org.junit_4.12.0.v201504281640/junit.jar" 
+    binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="540" y="284"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
