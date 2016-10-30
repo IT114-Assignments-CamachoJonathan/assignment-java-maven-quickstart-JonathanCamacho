@@ -1,2 +1,2 @@
 #MavenQuickstart
-This project uses Junit 4 dependances and test with junit 3 and 4.
+This project uses Junit 4 dependances and test with junit 3 and 4 in an app file.
